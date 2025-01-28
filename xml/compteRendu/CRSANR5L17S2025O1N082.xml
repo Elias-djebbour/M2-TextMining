@@ -1,0 +1,1315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L17S2025O1N082</uid>
+  <seanceRef>RUANR5L17S2025IDS28898</seanceRef>
+  <sessionRef>SCR5A2025O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20250127160000000</dateSeance>
+    <dateSeanceJour>lundi 27 janvier 2025</dateSeanceJour>
+    <numSeanceJour>1</numSeanceJour>
+    <numSeance>82</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>17</legislature>
+    <session>Session ordinaire 2024-2025</session>
+    <nomFichierJo>20250082</nomFichierJo>
+    <validite>valide</validite>
+    <etat>provisoire</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2025-01-27T23:30:46.000+01:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="3608026">Présidence de Mme Nadège Abomangoli</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="3608030">
+          <intitule>Cessation de mandat de plusieurs députés et reprise de mandat de plusieurs autres<br/> </intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="3608033">
+          <intitule>Modification de l’ordre du jour<br/> </intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="3">
+        <titreStruct id_syceron="3608036">
+          <intitule>Améliorer le traitement des maladies affectant les cultures végétales à l’aide d’aéronefs télépilotés<br/> </intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="3608037"/>
+        <sommaire2>
+          <titreStruct id_syceron="3608039">
+            <intitule>Discussion des articles <italique>(suite)</italique><br/> </intitule>
+          </titreStruct>
+          <sommaire3>
+            <titreStruct id_syceron="3608041">
+              <intitule>Article 1<exposant>er</exposant><br/> </intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup> <lienAdt id_syceron="3608043"> 42</lienAdt></para>
+            <para id_syceron="3608047">M. Jean-Luc Fugit, rapporteur de la commission des affaires économiques</para>
+            <para id_syceron="3608050">M. Patrick Mignola, ministre délégué chargé des relations avec le Parlement</para>
+            <para>Amendement n<sup>o</sup> <lienAdt id_syceron="3608056"> 65</lienAdt></para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="3608062">
+              <intitule>Après l’article 1<exposant>er</exposant><br/> </intitule>
+            </titreStruct>
+            <para>Amendement n<sup>o</sup> <lienAdt id_syceron="3608064"> 62</lienAdt></para>
+            <para id_syceron="3607901">Mme Aurélie Trouvé, présidente de la commission des affaires économiques</para>
+            <para>Amendement n<sup>o</sup> <lienAdt id_syceron="3607918"> 63</lienAdt></para>
+          </sommaire3>
+          <sommaire3>
+            <titreStruct id_syceron="3607940">
+              <intitule>Article 2<br/> </intitule>
+            </titreStruct>
+            <para id_syceron="3607942">Mme Virginie Duby-Muller</para>
+            <para>Amendements n<sup>os</sup> <lienAdt id_syceron="3607946"> 2</lienAdt>, <lienAdt id_syceron="3607954"> 25</lienAdt></para>
+          </sommaire3>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="3607976">
+            <intitule>Explications de vote<br/> </intitule>
+          </titreStruct>
+          <para id_syceron="3607978">M. Paul Midy (EPR)</para>
+          <para id_syceron="3607995">Mme Manon Meunier (LFI-NFP)</para>
+          <para id_syceron="3608014">Mme Chantal Jourdan (SOC)</para>
+        </sommaire2>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Première séance du lundi 27 janvier 2025</journee>
+      <session>Session ordinaire 2024-2025</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2602106" ordre_absolu_seance="1" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="3608026" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Nadège Abomangoli<br/> vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2602107" ordre_absolu_seance="2" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608027" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2602108" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3608028" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à seize heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2602110" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3608030" valeur="">
+      <orateurs/>
+      <texte>Cessation de mandat de plusieurs députés et reprise de mandat de plusieurs autres</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2602111" ordre_absolu_seance="6" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608031" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’informe l’Assemblée nationale que la présidente a pris acte, en application de l’article L.O. 176 du code électoral, de la cessation le 23 janvier 2025 à minuit du mandat de député de M. Remi Provendier, Mme Danièle Carteron, M. Fabien Lainé, M. Pierre Marle, Mme Éliane Kremer, Mme Isabelle Mesnard, Mme Pascale Bay, Mme Sophie Delorme Duret, M. David Guerin, M. Didier Padey et M. Michel Gonord et de la reprise de l’exercice du mandat de Mme Anne Genetet, M. Antoine Armand, Mme Geneviève Darrieussecq, M. Paul Christophe, M. Patrick Hetzel, M. Guillaume Kasbarian, <italique>(Applaudissements sur plusieurs bancs du groupe EPR.)</italique> M. Alexandre Portier, Mme Olga Givernet, Mme Marie-Agnès Poussier-Winsback, Mme Marina Ferrari et de M. Jean-Louis Thiériot, dont les fonctions gouvernementales ont pris fin le 23 décembre.<br/>J’informe également l’Assemblée nationale que le 23 janvier 2025 à minuit, Mme Élisabeth Borne, M. Gérald Darmanin, M. Laurent Marcangeli, Mme Aurore Bergé, M. Yannick Neuder et Mme Véronique Louwagie, nommés membre du gouvernement par décret du 23 décembre 2024, ont été remplacés respectivement par M. Freddy Sertin, M. Vincent Ledoux, M. Xavier Lacombe, Mme Anne-Sophie Ronceret, Mme Sylvie Dezarnaud et M. Thierry Légier, élus en même temps qu’eux à cet effet.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="1" id_preparation="2602113" ordre_absolu_seance="9" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3608033" valeur="">
+      <orateurs/>
+      <texte>Modification de l’ordre du jour</texte>
+      <paragraphe valeur_ptsodj="3" ordinal_prise="1" id_preparation="2602114" ordre_absolu_seance="10" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="0" id_syceron="3608034" valeur="">
+        <orateurs/>
+        <texte>Je vous informe que la proposition de loi relative aux mineurs délinquants est retirée de l’ordre du jour de ce lundi 27 janvier ; ce texte est inscrit à l’ordre du jour de la semaine du gouvernement du lundi 10 février.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602116" ordre_absolu_seance="12" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="3608036" valeur=" (n[[o]] 637)">
+      <orateurs/>
+      <texte>Améliorer le traitement des maladies affectant les cultures végétales à l’aide d’aéronefs télépilotés</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602117" ordre_absolu_seance="13" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="3608037" valeur="">
+      <orateurs/>
+      <texte>Suite de la discussion d’une proposition de loi</texte>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602118" ordre_absolu_seance="14" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608038" valeur=" (n[[os]] 637, 380)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’ordre du jour appelle la suite de la discussion de la proposition de loi de M. Jean-Luc Fugit et plusieurs de ses collègues visant à améliorer le traitement des maladies affectant les cultures végétales à l’aide d’aéronefs télépilotés (n<exposant>os</exposant> 380, 637).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602119" ordre_absolu_seance="15" code_grammaire="DISC_ARTICLES_1_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3608039" valeur=" (n[[o]] 637)" bibard=" (n[[o]] 637)" art="" adt="" ssadt="">
+      <orateurs/>
+      <texte>Discussion des articles <italique>(suite)</italique></texte>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602120" ordre_absolu_seance="16" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="DISC_ARTICLES_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608040" valeur="" bibard=" (n[[o]] 637)" art="" adt="" ssadt="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Lundi 2 décembre 2024, l’Assemblée a commencé l’examen des articles, s’arrêtant à l’amendement n<exposant>o</exposant> 42 à l’article 1<exposant>er</exposant>.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602121" ordre_absolu_seance="17" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="3608041" valeur=" 1er" bibard=" (n[[o]] 637)" art=" 1er" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 1<exposant>er</exposant></texte>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602122" ordre_absolu_seance="18" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="ANN_SCR_AUTRE_1_0" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608042" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Sur l’article 1<exposant>er</exposant>, je suis saisie par le groupe Ensemble pour la République d’une demande de scrutin public.<br/> Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.<br/>La parole est à Mme Delphine Batho, pour soutenir l’amendement n<exposant>o</exposant> 42.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602124" ordre_absolu_seance="20" id_acteur="PA335999" id_mandat="PM843494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608044" valeur="" bibard=" (n[[o]] 637)" art=" 1er" adt="" ssadt="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Delphine Batho</nom>
+            <id>335999</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Il est regrettable que les événements politiques intervenus depuis la discussion de cette proposition de loi, le 2 décembre, n’aient pas conduit ses auteurs à la retirer. Les explications de vote nous permettront, je l’espère, de rappeler les raisons pour lesquelles le groupe Écologiste et social est radicalement opposé à l’autorisation de l’épandage aérien de pesticides par drone. Lors du précédent débat, nous avions déjà eu l’occasion de dénoncer le fait suivant : aucun compte n’a été tenu des évaluations des quelques expérimentations réalisées par l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail (Anses), agence que certains collègues ne cessent d’attaquer et dont ils tentent de remettre en cause les prérogatives.<br/>Par l’amendement n<exposant>o</exposant> 42, de repli, nous souhaitons que les résultats de l’extension et de la généralisation de l’épandage aérien prévues par le texte soient examinés uniquement à l’aune des évaluations de l’Anses.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602126" ordre_absolu_seance="22" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608046" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La parole est à M. Jean-Luc Fugit, rapporteur de la commission des affaires économiques, pour donner l’avis de la commission.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602127" ordre_absolu_seance="23" id_acteur="PA722366" id_mandat="PM843299" id_nomination_oe="-1" id_nomination_op="-3373196" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3608047" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Luc Fugit</nom>
+            <id>722366</id>
+            <qualite>rapporteur de la commission des affaires économiques</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Ce texte a en effet été examiné le 27 novembre en commission des affaires économiques et le 2 décembre en séance publique. Il est la suite logique de l’expérimentation qui s’est déroulée de 2019 à 2021, après que nous en avons adopté le principe dans le cadre de la loi Egalim du 30 octobre 2018. Pourquoi une telle expérimentation et un tel texte ? Parce qu’une décision européenne de 2009 interdisant tout épandage aérien a été transcrite dans le droit français en 2011, des dispositions durcies en 2015 quand toute possibilité d’utiliser de telles techniques d’épandage a été supprimée, même en cas d’avantage manifeste pour la santé ou pour l’environnement. Or, depuis dix ans, les techniques d’épandage par drone ont vu le jour, qui présentent de nombreux avantages, tant pour l’environnement que pour réduire la pénibilité – nous en avions alors longuement discuté en commission et en séance : le débat a eu lieu, de façon très approfondie.<br/>J’en viens à l’amendement, qui demande que la prise de décision gouvernementale puisse être fondée sur les évaluations de l’Anses. Il est satisfait puisque l’alinéa 9 de l’article 1<exposant>er</exposant> prévoit une évaluation par cette agence, conformément à ce que vous souhaitez. Demande de retrait ; à défaut, avis défavorable.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602129" ordre_absolu_seance="25" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608049" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La parole est à M. le ministre délégué chargé des relations avec le Parlement, pour donner l’avis du gouvernement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602130" ordre_absolu_seance="26" id_acteur="PA721418" id_mandat="-1" id_nomination_oe="PM855158" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3608050" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Patrick Mignola</nom>
+            <id>721418</id>
+            <qualite>ministre délégué chargé des relations avec le Parlement</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Je vous prie d’excuser l’absence de Mme la ministre de l’agriculture, retenue au Sénat par l’examen d’un texte visant à lever les contraintes pesant sur l’exercice du métier d’agriculteur. Au nom du gouvernement, qui souscrit aux objectifs visés par cette proposition de loi, je fais mienne la position que vient d’énoncer M. le rapporteur. En effet, toute autorisation d’épandage dépend des essais préalables réalisés par l’Anses. Une référence de plus à cette agence ferait doublon avec l’alinéa 9 du titre B, lequel précise déjà que c’est elle qui effectue les essais dont les résultats déterminent l’autorisation de recourir aux aéronefs.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602131" ordre_absolu_seance="27" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608051" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La parole est à Mme Delphine Batho.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602132" ordre_absolu_seance="28" id_acteur="PA335999" id_mandat="PM843494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608052" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Delphine Batho</nom>
+            <id>335999</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je maintiens l’amendement. Il est faux de prétendre qu’il serait satisfait. En elle-même, la proposition de loi s’assoit sur les conclusions de l’Anses portant sur les quelques expérimentations d’épandage aérien par drone qui ont été réalisées : selon l’agence, celles-ci n’étaient ni concluantes ni probantes, et leur méthodologie douteuse. De plus, à l’alinéa 12, qui traite de l’arrêté à prendre par les ministres chargés de l’environnement, de l’agriculture et de la santé pour autoriser l’extension de l’épandage aérien, il est fait référence aux résultats des essais, mais non à l’évaluation de l’Anses.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602133" ordre_absolu_seance="29" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608053" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La parole est à Mme Frédérique Meunier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602134" ordre_absolu_seance="30" id_acteur="PA719272" id_mandat="PM842513" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608054" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Frédérique Meunier</nom>
+            <id>719272</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je soutiens l’amendement de Mme Batho. Il répond notamment à une question que nous avons dû poser à une vingtaine de reprises au cours de cette discussion, sans jamais obtenir de réponse de la part du rapporteur. D’après l’Anses, seule une dizaine des soixante-quatorze cas d’épandage étudiés ont donné des résultats probants. Peut-on se satisfaire de tirer des conclusions d’une dizaine de cas sur près de soixante-quinze ? Il ne me semble pas. La moindre des choses serait donc que l’Anses puisse se prononcer à chaque fois qu’une autorisation est envisagée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602135" ordre_absolu_seance="31" code_grammaire="REJET_ADT" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3608055" valeur=" 42" decision="REJET d’un amendement (main levée) adt">
+        <orateurs/>
+        <texte>
+          <italique>(L’amendement n<exposant>o</exposant> 42 n’est pas adopté.)</italique>
+        </texte>
+      </paragraphe>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602136" ordre_absolu_seance="32" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" orateur="" code_grammaire="ADT_SORTS_DIRECT_1_10" code_parole="" sommaire="1" id_syceron="3608056" valeur=" 65" bibard=" (n[[o]] 637)" art=" 1er" adt="" ssadt="">
+        <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+          <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602136" ordre_absolu_seance="32" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="ADT_SORTS_DIRECT_1_10" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3608056" valeur=" 65" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>795228</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>L’amendement n<exposant>o</exposant> 65 de Mme Stéphanie Galzy est défendu.</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602137" ordre_absolu_seance="33" code_grammaire="ADT_SORTS_DIRECT_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3608057" valeur=" 65">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant> 65, repoussé par la commission et par le gouvernement, n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602138" ordre_absolu_seance="34" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="SCRUT_ART_PUB_1_6" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608058" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je mets aux voix l’article 1<exposant>er</exposant>.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602139" ordre_absolu_seance="35" code_grammaire="SCRUT_ART_PUB_1_7" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3608059" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(Il est procédé au scrutin.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602140" ordre_absolu_seance="36" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="SCRUT_ART_PUB_1_8" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608060" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        58<br/>        Nombre de suffrages exprimés                58<br/>        Majorité absolue                        30<br/>                Pour l’adoption                45<br/>                Contre                13</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602141" ordre_absolu_seance="37" code_grammaire="SCRUT_ART_PUB_1_9" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3608061" valeur="" decision="">
+          <orateurs/>
+          <texte><italique>(L’article </italique>1<exposant>er</exposant><italique>, amendé, est adopté.)</italique></texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602142" ordre_absolu_seance="38" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="3608062" valeur=" Après l’article 1er" bibard=" (n[[o]] 637)" art=" Après l’article 1er" adt="" ssadt="">
+      <orateurs/>
+      <texte>Après l’article 1<exposant>er</exposant></texte>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602143" ordre_absolu_seance="39" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="ANN_SCR_AUTRE_1_0" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608063" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Sur les amendements n<exposant>os</exposant><exposant> </exposant>62 et 63 ainsi que sur les amendements n<exposant>o</exposant><exposant> </exposant>2 et identique, je suis saisie par le groupe Écologiste et social de demandes de scrutin public.<br/>Sur l’article 2 et sur la proposition de loi dans son ensemble, je suis saisie de demandes de scrutin public par le groupe Ensemble pour la République.<br/> Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.<br/>La parole est à Mme Stéphanie Galzy, pour soutenir l’amendement n<exposant>o</exposant> 62.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602145" ordre_absolu_seance="41" id_acteur="PA793892" id_mandat="PM842738" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608065" valeur="" bibard=" (n[[o]] 637)" art=" Après l’article 1er" adt="" ssadt="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Galzy</nom>
+            <id>793892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous souhaitons que le gouvernement remette un rapport sur la toxicité réelle du diméthoate et les moyens de le réintroduire en l’absence de produit de substitution.<br/>Bien qu’efficace contre de nombreux ravageurs, cette substance est interdite en France en raison de préoccupations quant à sa toxicité. Il est crucial de disposer de données précises afin d’évaluer les risques de manière exhaustive et de prendre des décisions éclairées.<br/> <br/>Dans les faits, il n’y a pas de contrôle et des cerises turques traitées au diméthoate se retrouvent dans nos hypermarchés. Nos agriculteurs, qui ne peuvent plus utiliser ce produit, subissent donc une concurrence déloyale avec des pays étrangers, sur le territoire national. À travers cet amendement, nous affirmons notre soutien indéfectible à nos agriculteurs, tout en visant à leur garantir des conditions de concurrence équitables. <italique>(Applaudissements sur les bancs du groupe RN.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602148" ordre_absolu_seance="44" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608068" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Quel est l’avis de la commission ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602149" ordre_absolu_seance="45" id_acteur="PA722366" id_mandat="PM843299" id_nomination_oe="-1" id_nomination_op="-3373196" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608069" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Luc Fugit</nom>
+            <id>722366</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Si vous me le permettez, je me prononcerai sur cet amendement et sur le suivant, puisque tous deux comportent une demande de rapport – demandes auxquelles je ne suis pas, par principe, favorable –, l’un sur le diméthoate, l’autre sur l’acétamipride.<br/>Tous territoires et toutes sensibilités politiques confondus, nous savons que les agriculteurs se plaignent, pour certaines productions, de ne pas être soumis aux mêmes règles que ceux des pays voisins. Il convient donc de nous appuyer sur le comité des solutions lancé en mars dernier par un précédent gouvernement afin de recenser, filière par filière, les distorsions de concurrence. Le diméthoate étant interdit dans toute l’Union européenne, je suis particulièrement défavorable à l’amendement le concernant ; sur l’acétamipride, en revanche, la question se pose puisqu’il serait utilisé dans certains pays membres. Il appartient toutefois au gouvernement d’y répondre ; je crois d’ailleurs que Mme la ministre s’exprimera sur le sujet au Sénat cet après-midi. Avis défavorable sur les deux amendements.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602150" ordre_absolu_seance="47" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608070" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Quel est l’avis du gouvernement ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602151" ordre_absolu_seance="48" id_acteur="PA721418" id_mandat="-1" id_nomination_oe="PM855158" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608071" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Patrick Mignola</nom>
+            <id>721418</id>
+            <qualite>ministre délégué</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Je m’oppose à ces amendements pour deux raisons : l’une de principe, l’autre de fond. Chaque fois que vous demandez un nouveau rapport, vous entravez la bonne application des lois. Gagner en efficience dans ce domaine est une des priorités du gouvernement afin que les Françaises et les Français puissent sentir l’effet des décisions que vous prenez sur leur vie quotidienne.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602152" ordre_absolu_seance="49" id_acteur="PA717379" id_mandat="PM843374" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608072" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Maillard</nom>
+            <id>717379</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="1" id_preparation="2602153" ordre_absolu_seance="50" id_acteur="PA721418" id_mandat="-1" id_nomination_oe="PM855158" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608073" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Patrick Mignola</nom>
+            <id>721418</id>
+            <qualite>ministre délégué</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Il y a ensuite une raison de fond : dans votre exposé sommaire, vous indiquez qu’il s’agit de vérifier la toxicité du diméthoate. Or, en 2019, l’Union européenne a interdit, dans tous les États membres, ce produit parce que sa toxicité était avérée. Il serait malvenu de demander à l’administration française un rapport pour constater ce qui l’a déjà été, et à plusieurs reprises.<br/>Vous soulignez toutefois, à juste titre, une double difficulté pour nos agriculteurs. Ceux-ci ont eu le plus grand mal à s’adapter à cette interdiction. Pour y faire face, le ministère de l’agriculture a lancé un plan d’action destiné à identifier des solutions de substitution. Plus de 3,5 millions d’euros y sont consacrés,  preuve que nous ne sommes pas restés les bras ballants. Je signale que l’année dernière, des exceptions ont été toutefois introduites à quatre ou cinq reprises, quand l’urgence l’imposait.<br/>S’agissant des produits qui seraient importés, je peux vous assurer que nos administrations se sont saisies du problème, non seulement aux frontières de l’Union européenne mais aussi dans l’ensemble des réseaux de distribution du territoire national. À ce jour, contrairement à ce que vous dites, aucun excès n’a été constaté concernant l’importation de produits depuis l’extérieur de l’Union européenne. La vigilance doit toutefois être de mise et plutôt que de demander un rapport, la représentation nationale dans son ensemble doit se charger de vérifier auprès du gouvernement – nous y sommes prêts – que les contrôles se poursuivent, pour que nos agriculteurs ne subissent pas une interdiction qui ne serait pas appliquée à d’autres.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601926" ordre_absolu_seance="53" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607900" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La parole est à Mme la présidente de la commission des affaires économiques.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601927" ordre_absolu_seance="54" id_acteur="PA795164" id_mandat="PM840444" id_nomination_oe="-1" id_nomination_op="PM848492" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3607901" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Aurélie Trouvé</nom>
+            <id>795164</id>
+            <qualite>présidente de la commission des affaires économiques</qualite>
+          </orateur>
+        </orateurs>
+        <texte>Il y a bien une clause de sauvegarde qui s’applique aux produits importés traités avec du diméthoate ; elle a été instaurée notamment grâce à l’Anses, agence souvent critiquée mais dont l’appui scientifique solide a permis de démontrer les dangers auxquels expose ce pesticide en matière de santé.<br/>Il faut donc que cette clause de sauvegarde s’applique réellement, et cela rejoint la question des moyens. Voilà le véritable enjeu de la discussion : comment donner aux services concernés tous les moyens de contrôle nécessaires pour empêcher l’importation de produits ainsi traités ?<br/> <br/>Une autre question se pose : dans quelle mesure faut-il élargir la clause de sauvegarde à d’autres produits ? Il va être question de l’acétamipride, produit pour lequel il existe, c’est vrai, une distorsion de concurrence. Mais de mon point de vue, il faut surtout réfléchir à la manière dont nous pourrions aller plus loin, afin de faire appliquer des clauses de sauvegarde empêchant l’importation de produits traités avec des pesticides qui représentent clairement – l’Anses l’a prouvé scientifiquement – un danger pour la santé humaine.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601930" ordre_absolu_seance="57" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607904" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La parole est à Mme Delphine Batho.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601931" ordre_absolu_seance="58" id_acteur="PA335999" id_mandat="PM843494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607905" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Delphine Batho</nom>
+            <id>335999</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Cet amendement est très révélateur. Ce n’est pas une demande de rapport, puisqu’il vise en fait à réintroduire le diméthoate « en l’absence de produit de substitution ». Or si ce produit a été interdit en France et dans l’Union européenne, c’est pour de bonnes raisons ! Comme le signale l’Anses dans une note de juin 2016, il l’a été du fait de « risques sanitaires inacceptables pour les opérateurs », de « risques sanitaires inacceptables pour les travailleurs », de « risques de dépassement de la limite maximale de résidus », de « risques inacceptables pour les oiseaux et les mammifères ». En fait, le Rassemblement national, c’est le parti de l’empoisonnement généralisé. <italique>(Applaudissements sur les bancs des groupes EcoS et LFI-NFP. – Exclamations sur les bancs du groupe RN.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601932" ordre_absolu_seance="59" id_acteur="PA794434" id_mandat="PM842990" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607906" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Christophe Bentz</nom>
+            <id>794434</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Rien que ça !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601933" ordre_absolu_seance="60" id_acteur="PA794198" id_mandat="PM842876" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607907" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Roger Chudeau</nom>
+            <id>794198</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Ha, ha, ha !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601934" ordre_absolu_seance="61" id_acteur="PA793832" id_mandat="PM842678" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607908" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Yoann Gillet</nom>
+            <id>793832</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Allez !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601935" ordre_absolu_seance="62" id_acteur="PA335999" id_mandat="PM843494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607909" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Delphine Batho</nom>
+            <id>335999</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous sommes radicalement opposés à cet amendement qui est une honte !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601936" ordre_absolu_seance="63" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607910" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La parole est à M. Antoine Léaument.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601937" ordre_absolu_seance="64" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607911" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Antoine Léaument</nom>
+            <id>795746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Cet amendement du Rassemblement national est étonnant. A l’heure où l’on réfléchit à la sortie de certains pesticides, voilà qu’il demande un rapport non pour protéger la France face à l’importation de produits qui pourraient être dangereux pour la santé, mais au contraire pour réintroduire en France un pesticide interdit, le diméthoate, utilisé notamment sur les cerises.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601938" ordre_absolu_seance="65" id_acteur="PA795084" id_mandat="PM840369" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607912" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Rodrigo Arenas</nom>
+            <id>795084</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Eh oui !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601939" ordre_absolu_seance="66" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607913" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Antoine Léaument</nom>
+            <id>795746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>L’amendement se présente comme une demande de rapport ; son adoption serait donc sans conséquence, mais il démontre que vous n’agissez pas pour protéger la santé des Français, et certainement pas celle des agriculteurs, mais au contraire pour aider les lobbys chimiques qui nous vendent ces pesticides. C’est vraiment un amendement honteux. <italique>(Applaudissements sur les bancs du groupe LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601940" ordre_absolu_seance="67" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="SCRUT_PUB_ADT_1_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607914" valeur=" 62" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je mets aux voix l’amendement n<exposant>o</exposant> 62.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601941" ordre_absolu_seance="68" code_grammaire="SCRUT_PUB_ADT_1_3" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3607915" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601942" ordre_absolu_seance="69" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="SCRUT_PUB_ADT_1_4" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607916" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        82<br/>        Nombre de suffrages exprimés                78<br/>        Majorité absolue                        40<br/>                Pour l’adoption                20<br/>                Contre                58</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601943" ordre_absolu_seance="70" code_grammaire="SCRUT_PUB_ADT_1_5" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3607917" valeur=" 62" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(L’amendement n<exposant>o</exposant> 62 n’est pas adopté.)</italique>
+        </texte>
+      </paragraphe>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601944" ordre_absolu_seance="71" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="3607918" valeur=" 63" bibard=" (n[[o]] 637)" art=" Après l’article 1er" adt=" 63" ssadt="">
+        <interExtraction nom_orateur="Mme Stéphanie Galzy" id_acteur="PA793892" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM842738">
+          <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601944" ordre_absolu_seance="71" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3607918" valeur=" 63" bibard=" (n[[o]] 637)" art=" Après l’article 1er" adt=" 63" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>795228</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Stéphanie Galzy, pour soutenir l’amendement n<exposant>o</exposant> 63.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601945" ordre_absolu_seance="72" id_acteur="PA793892" id_mandat="PM842738" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607919" valeur="" bibard=" (n[[o]] 637)" art=" Après l’article 1er" adt=" 63" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Stéphanie Galzy</nom>
+                <id>793892</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Il vise à demander au gouvernement une étude approfondie permettant d’évaluer la toxicité réelle de l’acétamipride sur l’environnement et la santé humaine. Une telle démarche est cruciale pour nos agriculteurs, qui sont soumis à la concurrence déloyale de produits autorisés dans d’autres pays européens. Bien qu’autorisé en Europe, l’acétamipride reste interdit en France. Disposer de données précises sur ses effets est essentiel et aidera à prendre des décisions éclairées.<br/>Nos agriculteurs sont pénalisés par des réglementations plus strictes que celles qui s’appliquent à leurs homologues européens. Une étude détaillée permettra de déterminer si l’interdiction est justifiée ou si elle doit faire l’objet d’une réévaluation. En défendant cet amendement, nous affirmons notre engagement pour une agriculture durable et notre volonté de garantir à nos agriculteurs des conditions de concurrence équitables. <italique>(Applaudissements</italique> <italique>sur les bancs des groupes RN et DR.)</italique></texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601947" ordre_absolu_seance="74" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607921" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Vous aviez déjà émis un avis défavorable, monsieur le rapporteur ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601948" ordre_absolu_seance="75" id_acteur="PA722366" id_mandat="PM843299" id_nomination_oe="-1" id_nomination_op="-3373196" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607922" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Fugit</nom>
+              <id>722366</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>En effet, avis défavorable.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601949" ordre_absolu_seance="76" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607923" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel est l’avis du gouvernement ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601950" ordre_absolu_seance="77" id_acteur="PA721418" id_mandat="-1" id_nomination_oe="PM855158" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607924" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Patrick Mignola</nom>
+              <id>721418</id>
+              <qualite>ministre délégué</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Même avis.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601951" ordre_absolu_seance="78" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607925" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à Mme Delphine Batho.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601952" ordre_absolu_seance="79" id_acteur="PA335999" id_mandat="PM843494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607926" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Delphine Batho</nom>
+              <id>335999</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Après le diméthoate, voilà l’acétamipride ! Ce serait le retour des néonicotinoïdes en France,…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601953" ordre_absolu_seance="80" id_acteur="PA717379" id_mandat="PM843374" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607927" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sylvain Maillard</nom>
+              <id>717379</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Bien sûr !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601954" ordre_absolu_seance="81" id_acteur="PA335999" id_mandat="PM843494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607928" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Delphine Batho</nom>
+              <id>335999</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…alors que l’Assemblée nationale a voté leur interdiction en 2015 et en 2016 – elle s’est appliquée à partir de 2018. Comme le dit très bien l’Inrae – Institut national de recherche pour l’agriculture, l’alimentation et l’environnement – dans un article publié ce matin, qui montre qu’en ce qui concerne la betterave sucrière, il existe des techniques culturales permettant d’éviter la jaunisse du puceron…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601955" ordre_absolu_seance="82" id_acteur="PA793892" id_mandat="PM842738" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607929" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Stéphanie Galzy</nom>
+              <id>793892</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Non !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601956" ordre_absolu_seance="83" id_acteur="PA335999" id_mandat="PM843494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607930" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Delphine Batho</nom>
+              <id>335999</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…sans avoir recours à des produits chimiques comme les néonicotinoïdes, « réautoriser ces produits reviendrait à ne jamais considérer la science. »<br/>L’acétamipride persiste 2 203 jours dans l’environnement ! Ce produit est plus dangereux pour les oiseaux et pour les vers de terre que l’imidaclopride. L’interdiction de ce type de produits doit absolument être maintenue : c’est une question de santé, de biodiversité et d’ordre public environnemental.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601957" ordre_absolu_seance="85" id_acteur="PA717379" id_mandat="PM843374" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607931" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Sylvain Maillard</nom>
+              <id>717379</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elle a raison !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601958" ordre_absolu_seance="86" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607932" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Julien Limongi.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601959" ordre_absolu_seance="87" id_acteur="PA841873" id_mandat="PM843434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607933" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Limongi</nom>
+              <id>841873</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>S’agissant de ce cas précis, j’aimerais évoquer les betteraviers de Seine-et-Marne. Contrairement au diméthoate, l’acétamipride est autorisé dans l’Union européenne. La sucrerie de Souppes-sur-Loing, qui était l’avant-dernière encore en fonction dans le département, a fermé il y a quelques jours ;…</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601960" ordre_absolu_seance="88" id_acteur="PA842045" id_mandat="PM843581" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607934" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Julie Ozenne</nom>
+              <id>842045</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Elle a bien pollué les rivières !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601961" ordre_absolu_seance="89" id_acteur="PA841873" id_mandat="PM843434" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607935" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Julien Limongi</nom>
+              <id>841873</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>…il en reste une, à Nangis, dans ma circonscription. Et que fait-on ? On importe des produits qui ont les mêmes effets. On ne résout pas le problème sanitaire, mais on détruit peu à peu nos agriculteurs sur l’ensemble du territoire. Il y a là matière à débat, mais je trouve pertinent que la question soit de nouveau posée sous la forme d’une demande de rapport. En attendant, ce sont nos agriculteurs qui meurent les uns après les autres. <italique>(Applaudissements sur les bancs du groupe RN.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601962" ordre_absolu_seance="90" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="SCRUT_PUB_ADT_1_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607936" valeur=" 63" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je mets aux voix l’amendement n<exposant>o</exposant> 63.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601963" ordre_absolu_seance="91" code_grammaire="SCRUT_PUB_ADT_1_3" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3607937" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(Il est procédé au scrutin.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601964" ordre_absolu_seance="92" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="SCRUT_PUB_ADT_1_4" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607938" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        80<br/>        Nombre de suffrages exprimés                78<br/>        Majorité absolue                        40<br/>                Pour l’adoption                22<br/>                Contre                56</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601965" ordre_absolu_seance="93" code_grammaire="SCRUT_PUB_ADT_1_5" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3607939" valeur=" 63" decision="">
+          <orateurs/>
+          <texte>
+            <italique>(L’amendement n<exposant>o</exposant> 63 n’est pas adopté.)</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="3" valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601966" ordre_absolu_seance="94" code_grammaire="DISC_ARTICLES_2_4" code_style="Sous-titre bdc" code_parole="" sommaire="1" id_syceron="3607940" valeur=" 2" bibard=" (n[[o]] 637)" art=" 2" adt="" ssadt="">
+      <orateurs/>
+      <texte>Article 2</texte>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601967" ordre_absolu_seance="95" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607941" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La parole est à Mme Virginie Duby-Muller.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601968" ordre_absolu_seance="96" id_acteur="PA608826" id_mandat="PM843365" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3607942" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Virginie Duby-Muller</nom>
+            <id>608826</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Je m’exprime ici en vertu de mon expérience de députée de Haute-Savoie, une terre agricole de montagne où les défis liés au relief sont nombreux. Dans nos territoires pentus, vallonnés et montagneux, le recours aux drones représente un atout majeur pour soutenir l’activité agricole et préserver la sécurité des agriculteurs. En 2022, j’avais moi-même déposé une proposition de loi visant à prolonger l’expérimentation lancée par la loi Egalim en 2018, qui s’était achevée en 2021. Je me réjouis que nous ayons l’occasion de légiférer sur ce sujet crucial et je remercie notre collègue Jean-Luc Fugit pour ce texte ambitieux et nécessaire, malgré l’obstruction du Nouveau Front populaire en décembre dernier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601969" ordre_absolu_seance="97" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607943" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Antoine Léaument</nom>
+            <id>795746</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Ça va encore être de notre faute !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601970" ordre_absolu_seance="98" id_acteur="PA608826" id_mandat="PM843365" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607944" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Virginie Duby-Muller</nom>
+            <id>608826</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La présente proposition de loi constitue une avancée décisive pour l’agriculture française ; elle répond aux enjeux majeurs de sécurité, d’efficacité et de respect de l’environnement. Le cadre législatif actuel demeure trop restrictif, limitant l’utilisation des drones à des expérimentations très ciblées. Pourtant, les études de l’Anses et de l’Inrae montrent sans équivoque les bénéfices de cette technologie.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601971" ordre_absolu_seance="99" id_acteur="PA335999" id_mandat="PM843494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607945" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Delphine Batho</nom>
+            <id>335999</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>C’est faux, entièrement faux !</texte>
+      </paragraphe>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601972" ordre_absolu_seance="100" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" orateur="" code_grammaire="DISC_ARTICLES_3_9_1" code_parole="" sommaire="1" id_syceron="3607946" valeur=" 2" bibard=" (n[[o]] 637)" art=" 2" adt=" 2" ssadt="">
+        <interExtraction nom_orateur="Mme Delphine Batho" id_acteur="PA335999" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM843494">
+          <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601972" ordre_absolu_seance="100" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="DISC_ARTICLES_3_9_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3607946" valeur=" 2" bibard=" (n[[o]] 637)" art=" 2" adt=" 2" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>795228</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Je suis saisie de deux amendements, n<exposant>os</exposant> 2 et 25, visant à supprimer l’article 2.<br/> La parole est à Mme Delphine Batho, pour soutenir l’amendement n<exposant>o</exposant> 2.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601973" ordre_absolu_seance="101" id_acteur="PA335999" id_mandat="PM843494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_9" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607947" valeur="" bibard=" (n[[o]] 637)" art=" 2" adt=" 2" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Delphine Batho</nom>
+                <id>335999</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Il devient difficile d’avoir un débat parlementaire serein quand les faits ne sont plus les faits et que vous énoncez comme une vérité quelque chose qui est entièrement faux. Prenez le document de l’Anses : il dit exactement l’inverse de ce que vous lui faites dire. Le groupe Écologiste se fonde sur la science…</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601974" ordre_absolu_seance="102" id_acteur="PA722190" id_mandat="PM843659" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607948" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Gabriel Attal</nom>
+                <id>722190</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>C’est nous, les écologistes !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601975" ordre_absolu_seance="103" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607949" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Antoine Léaument</nom>
+                <id>795746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Vous n’aimez pas la science !</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601976" ordre_absolu_seance="104" id_acteur="PA335999" id_mandat="PM843494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_9" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607950" valeur="" bibard=" (n[[o]] 637)" art=" 2" adt=" 2" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Delphine Batho</nom>
+                <id>335999</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>…et sur ce que dit une agence de l’État. L’Anses, en l’occurrence, dit la chose suivante : les essais et les expérimentations qui ont eu lieu ne sont absolument pas concluants. Selon l’agence, les travailleurs ne sont pas mieux protégés ; surtout, les riverains peuvent davantage être exposés, du fait de la dérive des produits, qu’ils ne le sont avec l’épandage classique. Voilà ce qui se trouve dans le rapport de l’Anses !<br/>Nous proposons de supprimer l’article 2, par cohérence avec notre opposition à l’article 1<exposant>er</exposant>. D’ailleurs, l’article 2 est un gage : dans les temps qui courent, cela pose une question budgétaire et il serait bon d’entendre le gouvernement quant au coût d’une proposition de loi dont nous combattons la lettre, l’esprit, la philosophie et l’impact sur les finances publiques.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601979" ordre_absolu_seance="106" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607953" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Antoine Léaument</nom>
+                <id>795746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Très bien !</texte>
+          </paragraphe>
+        </interExtraction>
+      </point>
+      <point nivpoint="4" structure="Oui" valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601980" ordre_absolu_seance="107" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" orateur="" code_grammaire="DISC_ARTICLES_3_1" code_parole="" sommaire="1" id_syceron="3607954" valeur=" 25" bibard=" (n[[o]] 637)" art=" 2" adt=" 25" ssadt="">
+        <interExtraction nom_orateur="Mme Manon Meunier" id_acteur="PA795482" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM843605">
+          <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601980" ordre_absolu_seance="107" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="DISC_ARTICLES_3_1" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3607954" valeur=" 25" bibard=" (n[[o]] 637)" art=" 2" adt=" 25" ssadt="" roledebat="president">
+            <orateurs>
+              <orateur>
+                <nom>Mme la présidente</nom>
+                <id>795228</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>La parole est à Mme Manon Meunier, pour soutenir l’amendement n<exposant>o</exposant> 25.</texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601981" ordre_absolu_seance="108" id_acteur="PA795482" id_mandat="PM843605" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="DISC_ARTICLES_3_4_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607955" valeur="" bibard=" (n[[o]] 637)" art=" 2" adt=" 25" ssadt="">
+            <orateurs>
+              <orateur>
+                <nom>Mme Manon Meunier</nom>
+                <id>795482</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Quand il s’agit de chercher des budgets supplémentaires pour aider les agriculteurs face aux épidémies, c’est non. Quand il s’agit de chercher des budgets supplémentaires pour aider les agriculteurs face au défi climatique, c’est non. Quand il s’agit de chercher des budgets supplémentaires pour sauver l’Agence française pour le développement et la promotion de l’agriculture biologique, dite Agence bio, c’est non. Et là, vous allez chercher des budgets supplémentaires pour remplacer les agriculteurs par des drones ? Pour nous, c’est non ! <italique>(Applaudissements sur les bancs du groupe LFI-NFP.)</italique></texte>
+          </paragraphe>
+          <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601982" ordre_absolu_seance="109" id_acteur="PA795746" id_mandat="PM843584" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607956" valeur="">
+            <orateurs>
+              <orateur>
+                <nom>M. Antoine Léaument</nom>
+                <id>795746</id>
+                <qualite/>
+              </orateur>
+            </orateurs>
+            <texte>Vous planez !</texte>
+          </paragraphe>
+        </interExtraction>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601983" ordre_absolu_seance="110" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607957" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel est l’avis de la commission ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601984" ordre_absolu_seance="111" id_acteur="PA722366" id_mandat="PM843299" id_nomination_oe="-1" id_nomination_op="-3373196" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607958" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Fugit</nom>
+              <id>722366</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Comme il s’agit de ma dernière prise de parole sur ce texte, je vais prendre une minute pour rappeler quelques points. Je serai évidemment défavorable à ces amendements : les adopter n’aurait pas de sens et de toute façon, c’est au gouvernement de lever – ou non – le gage.<br/>J’en profite pour remercier celles et ceux qui m’ont accompagné dans ce travail, les administrateurs de la commission, mon équipe et celle de la ministre de l’agriculture. Je remercie par avance les députés qui voteront ce texte, en rappelant que son champ d’action est réduit. Il ne s’agit pas d’autoriser l’épandage de tous les produits, partout et n’importe comment : sont concernés des produits de biocontrôle, utilisés dans le cadre de l’agriculture biologique et classés à faible risque dans le droit européen.<br/> <br/>Si jamais vous aviez un doute avant de voter, et je m’adresse ici plus particulièrement aux collègues des territoires d’outre-mer, je veux simplement que vous sachiez que depuis nos débats du 2 décembre, j’ai reçu deux lettres, l’une des producteurs de sucre de La Réunion, l’autre de l’Union des groupements des producteurs de bananes de Guadeloupe et Martinique (UGPBAN) : ils nous demandent de voter ce texte, parce qu’ils en ont vraiment besoin.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601987" ordre_absolu_seance="114" id_acteur="PA335999" id_mandat="PM843494" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607961" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Delphine Batho</nom>
+              <id>335999</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Comme pour le chlordécone à l’époque !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601988" ordre_absolu_seance="115" id_acteur="PA722366" id_mandat="PM843299" id_nomination_oe="-1" id_nomination_op="-3373196" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607962" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Fugit</nom>
+              <id>722366</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Ils en ont besoin, madame Batho, pour lutter contre la cercosporiose noire, une maladie qui touche les bananeraies et les détruit. Il est possible de le faire grâce à quatre produits de biocontrôle, des fongicides qui ne peuvent être utilisés efficacement qu’au moyen de drones ; c’est bien une étude de l’Inrae qui l’a prouvé.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601989" ordre_absolu_seance="116" id_acteur="PA721134" id_mandat="PM843797" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607963" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Roland Lescure</nom>
+              <id>721134</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Il a raison !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601990" ordre_absolu_seance="117" id_acteur="PA722366" id_mandat="PM843299" id_nomination_oe="-1" id_nomination_op="-3373196" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607964" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Luc Fugit</nom>
+              <id>722366</id>
+              <qualite>rapporteur</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Si vous avez un doute, votez au moins pour les territoires d’outre-mer ; votez pour l’ensemble de nos agriculteurs, votez pour l’agriculture française. <italique>(Applaudissements sur les bancs du groupe EPR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601991" ordre_absolu_seance="118" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607965" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Quel est l’avis du gouvernement ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="2" id_preparation="2601992" ordre_absolu_seance="119" id_acteur="PA721418" id_mandat="-1" id_nomination_oe="PM855158" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607966" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Patrick Mignola</nom>
+              <id>721418</id>
+              <qualite>ministre délégué</qualite>
+            </orateur>
+          </orateurs>
+          <texte>Je vais faire droit à votre demande, mesdames les députées : au nom du gouvernement, je précise que cette proposition de loi, telle qu’elle est rédigée, n’a pas besoin de gage. Je serai donc favorable à vos amendements.<br/>C’est l’occasion pour moi de remercier la commission des affaires économiques, sa présidente et son rapporteur, et de me réjouir, comme l’a fait Virginie Duby-Muller, pour les viticulteurs savoyards – qui connaissent des difficultés liées aux pentes – et les pépiniéristes viticoles, tout particulièrement concernés par le texte.<br/>En référence à ce que disait Mme la présidente de la commission, j’indique que le gouvernement entend, par l’intermédiaire de l’Anses et du ministère de l’agriculture, consacrer à l’accompagnement des agriculteurs – les premiers acteurs de la transition écologique – tous les moyens, tous les efforts et toutes les ressources humaines pour qu’ils s’adaptent à la nouvelle donne environnementale et, sur un marché désormais mondialisé, qu’ils demeurent la fierté de notre pays.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2601994" ordre_absolu_seance="1" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607968" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>La parole est à M. Elie Califer.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2601995" ordre_absolu_seance="2" id_acteur="PA795762" id_mandat="PM843767" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607969" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Elie Califer</nom>
+              <id>795762</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Depuis l’examen du texte le 2 décembre, ma position personnelle a évolué, car j’ai discuté avec des producteurs et certaines associations. Les mesures proposées représenteront tout de même des avancées, puisqu’elles réduiront la pénibilité. Si l’utilisation des drones permet de restreindre la pulvérisation à dos d’homme ou par canon, la nature en tirera profit.<br/>À titre personnel – ce n’est pas la position de mon groupe –, je voterai en faveur de la proposition de loi, en pensant aux travailleurs. Cependant, il faut qu’il y ait un suivi et des contrôles, de sorte que soient respectées les dispositions que nous votons. D’après ce qu’on m’a dit, les groupements bananiers, propriétaires des drones, effectuent des contrôles en amont, afin de s’assurer que le nombre de traitements et les produits utilisés restent les mêmes. Je souhaite néanmoins que l’Anses soit de nouveau interrogée à ce sujet, d’ici à trois ans environ.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2601997" ordre_absolu_seance="4" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="SCRUT_ADTS_1_2" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607971" valeur=" 2 et 25" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Je mets aux voix les amendements identiques n<exposant>os</exposant> 2 et 25.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2601998" ordre_absolu_seance="5" code_grammaire="SCRUT_ADTS_1_3" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3607972" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(Il est procédé au scrutin.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2601999" ordre_absolu_seance="6" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="SCRUT_ADTS_1_4" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607973" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Voici le résultat du scrutin :<br/>        Nombre de votants                        90<br/>        Nombre de suffrages exprimés                80<br/>        Majorité absolue                        41<br/>                Pour l’adoption                57<br/>                Contre                23</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602000" ordre_absolu_seance="7" code_grammaire="SCRUT_ADTS_1_5" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="3607974" valeur=" 2 et 25" decision="">
+          <orateurs/>
+          <texte>
+            <italique>(Les amendements identiques n<exposant>os</exposant> 2 et 25 sont adoptés ; en conséquence, l’article 2 est supprimé.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602001" ordre_absolu_seance="8" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="DISC_ARTICLES_1_30" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607975" valeur="" bibard=" (n[[o]] 637)" art=" 2" adt=" 25" ssadt="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>795228</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte>Nous avons achevé l’examen des articles.</texte>
+        </paragraphe>
+      </point>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602002" ordre_absolu_seance="9" code_grammaire="DISC_ARTICLES_1_2" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="3607976" valeur="">
+      <orateurs/>
+      <texte>Explications de vote</texte>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602003" ordre_absolu_seance="10" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607977" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La parole est à M. Paul Midy.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602004" ordre_absolu_seance="11" id_acteur="PA795664" id_mandat="PM843569" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3607978" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Paul Midy (EPR)</nom>
+            <id>795664</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Cette proposition de loi de mon collègue Jean-Luc Fugit vise à offrir aux agriculteurs et aux salariés agricoles la possibilité de se saisir d’une technologie qui leur permettra de protéger les cultures plus efficacement grâce à l’utilisation des produits phytopharmaceutiques les moins risqués, tout en préservant leur santé et en améliorant leur sécurité au travail.<br/>Les règles en vigueur qui encadrent l’épandage aérien ne sont plus adaptées aux technologies actuelles, en particulier aux drones, dont l’usage s’est accéléré ces dernières années. En effet, tout le cadre juridique existant a été pensé en prenant en considération l’avion et l’hélicoptère, technologies qui donnent lieu à de très importants phénomènes de dérive des produits phytosanitaires. Or les drones ne peuvent raisonnablement pas être comparés à ces derniers : grâce aux progrès technologiques réalisés au cours des dernières années, ils permettent une pulvérisation plus proche des plantes, ce qui réduit fortement la dérive et présente des bénéfices pour la santé humaine et l’environnement.<br/> <br/>C’est pourquoi nous avions voulu, à la faveur de la loi Egalim 1, mener des expérimentations pour vérifier que la pulvérisation par drone comportait bel et bien des avantages vis-à-vis de la pulvérisation dite terrestre. Les essais réalisés par l’Anses et par l’Inrae ont démontré le bénéfice que représentait l’utilisation du drone. Plus précisément, il en ressort que le drone présente un avantage du point de vue de la pénibilité et des risques d’accident au travail. Il en ressort aussi qu’il présente des avantages pour l’environnement dans certains cas, soit parce que sa précision permet d’atteindre des zones difficilement atteignables par voie terrestre – ce qui limite alors très fortement la quantité de produits phytopharmaceutiques utilisés –, soit parce qu’il permet le traitement plus précoce d’une maladie sur un terrain rendu impraticable par voie terrestre en raison d’une avarie.<br/> <br/>La proposition de loi s’assure que le drone ne sera utilisé que lorsqu’il présente un réel bénéfice, soit pour la santé des agriculteurs, soit pour l’environnement. Concrètement, elle prévoit deux dispositifs, qui sont articulés. D’une part, elle définit un régime d’autorisation des programmes d’épandage par drone pour les parcelles agricoles comportant des pentes égales ou supérieures à 20 %, pour les bananeraies et pour les vignes mères de porte-greffes conduites au sol. D’autre part, elle définit un régime d’essai de l’épandage par drone pour d’autres cultures ou d’autres contextes parcellaires. Ces essais pourraient déboucher, après une évaluation scientifique de l’Anses et sous les regards de l’Office parlementaire d’évaluation des choix scientifiques et technologiques (Opecst), sur l’application du régime d’autorisation susmentionné.<br/> <br/>Pour ces deux dispositifs, seuls pourront être utilisés les produits relevant d’une des trois catégories suivantes : les produits de biocontrôle, les produits autorisés en agriculture biologique, les produits à faible risque au sens du droit européen. Ne soyons donc pas caricaturaux ! Cette proposition de loi prend en compte les enjeux écologiques, sociaux et économiques.<br/> <br/>Surtout, pensons aux acteurs eux-mêmes. Lorsqu’on les interroge, les agriculteurs sont très majoritairement favorables à cette proposition de loi. Il y a, d’une part, un enjeu de pénibilité au travail. L’usage des drones permettrait de limiter drastiquement le nombre d’accidents du travail. Il y a, d’autre part, un enjeu économique et écologique pour des secteurs entiers de notre agriculture. Je pense à la banane martiniquaise, pour laquelle l’autorisation des drones pourrait réduire jusqu’à 40 % la proportion de pesticides utilisés et mettre fin à l’épandage à dos d’homme. À ce propos, la chaîne Martinique La Première a présenté en mai dernier cette autorisation comme une petite révolution pour la production de bananes.<br/> <br/>La proposition de loi offre une solution concrète contribuant à la transition agroécologique des exploitations et à l’usage raisonné des produits phytopharmaceutiques. Elle sera d’ailleurs particulièrement utile pour l’agriculture biologique.<br/> <br/>Certains de nos collègues, assis notamment sur les bancs du groupe La France insoumise, s’apprêtent à voter contre le progrès technologique et l’innovation dans l’agriculture. <italique>(Exclamations sur les bancs du groupe LFI-NFP.) </italique>Aussi permettez-moi de faire une brève mise en perspective historique en m’adressant à eux.<br/> <br/>En 1880, quand le tracteur agricole a été inventé, auriez-vous voté contre ? <italique>(Mêmes mouvements.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602013" ordre_absolu_seance="20" id_acteur="PA717379" id_mandat="PM843374" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607987" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Maillard</nom>
+            <id>717379</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Oui, ils étaient contre !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602013" ordre_absolu_seance="92" id_acteur="PA795136" id_mandat="PM843353" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608025" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-François Coulomme</nom>
+            <id>795136</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Les tracteurs, ça ne donne pas le cancer…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602014" ordre_absolu_seance="93" id_acteur="PA795664" id_mandat="PM843569" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607988" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Paul Midy</nom>
+            <id>795664</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>En 1837, quand le soc en acier a été inventé, auriez-vous voté une loi pour vous opposer à son usage ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602015" ordre_absolu_seance="94" id_acteur="PA717379" id_mandat="PM843374" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607989" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Maillard</nom>
+            <id>717379</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Là aussi, ils étaient contre !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602016" ordre_absolu_seance="95" id_acteur="PA795664" id_mandat="PM843569" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607990" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Paul Midy</nom>
+            <id>795664</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>En 3500 avant notre ère, quand le soc en pierre a été inventé, auriez-vous voté une loi pour l’interdire ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602017" ordre_absolu_seance="96" id_acteur="PA717379" id_mandat="PM843374" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607991" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Maillard</nom>
+            <id>717379</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Là encore, ils étaient contre !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602018" ordre_absolu_seance="97" id_acteur="PA795664" id_mandat="PM843569" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607992" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Paul Midy</nom>
+            <id>795664</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>J’espère que non. En tout cas, à la demande générale des agriculteurs, le groupe Ensemble pour la République votera pour l’utilisation des drones. <italique>(Applaudissements sur les bancs du groupe EPR. – M. le rapporteur applaudit également.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602019" ordre_absolu_seance="98" id_acteur="PA719472" id_mandat="PM842720" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607993" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-René Cazeneuve</nom>
+            <id>719472</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Vous n’aimez pas les tracteurs ! Chacun devrait voir Midy à sa porte ! <italique>(Sourires.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602020" ordre_absolu_seance="99" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607994" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La parole est à Mme Manon Meunier.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602021" ordre_absolu_seance="100" id_acteur="PA795482" id_mandat="PM843605" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3607995" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Manon Meunier (LFI-NFP)</nom>
+            <id>795482</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Collègues de droite et macronistes, soulager les travaux pénibles, c’est quand ça vous arrange ! Quand il s’agit d’abroger la réforme reportant à 64 ans l’âge de départ à la retraite, c’est non. <italique>(Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS. – Exclamations sur quelques bancs du groupe EPR.)</italique><br/>Quand il s’agit de voter la proposition de loi de ma camarade Gabrielle Cathala visant à reconnaître la pénibilité des métiers « féminisés » – entre autres, aides-soignantes, infirmières et agentes d’entretien –, c’est non. <italique>(Mme Cyrielle Chatelain applaudit.)</italique><br/> <br/>Quand il s’agit de revenir sur le décret catastrophique autorisant la suspension du repos hebdomadaire – des vendangeurs et des travailleurs saisonniers agricoles ont dû ainsi travailler sept jours sur sept en pleine canicule –, c’est non. <italique>(Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs du groupe EcoS.)</italique><br/> <br/>En revanche, quand il s’agit d’autoriser l’épandage de produits phytosanitaires par drone,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602025" ordre_absolu_seance="104" id_acteur="PA722366" id_mandat="PM843299" id_nomination_oe="-1" id_nomination_op="-3373196" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607999" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Luc Fugit</nom>
+            <id>722366</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>De certains produits !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602026" ordre_absolu_seance="105" id_acteur="PA795482" id_mandat="PM843605" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608000" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Manon Meunier</nom>
+            <id>795482</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>…vous prétextez, tout d’un coup, vouloir alléger la pénibilité au travail. Dès lors, comprenez que nous nous posions des questions : pourquoi, soudainement, une telle charité ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602027" ordre_absolu_seance="106" id_acteur="PA717379" id_mandat="PM843374" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608001" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Sylvain Maillard</nom>
+            <id>717379</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Votre propos ne serait pas un peu caricatural ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602028" ordre_absolu_seance="107" id_acteur="PA795482" id_mandat="PM843605" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608002" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Manon Meunier</nom>
+            <id>795482</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Vous avez même affirmé au cours des débats : oh, mais ce texte ne concerne que l’agriculture biologique ; nous voulons aider l’agriculture biologique ! Or, au Sénat, vous avez appelé à voter la suppression de l’Agence bio, qui met en relation les acteurs de ces filières dans les territoires. <italique>(Applaudissements sur les bancs des groupes LFI-NFP et EcoS.)</italique><br/> <br/>Comprenez que nous nous posions quelques questions sur votre cohérence ! Entendez que nous ayons des doutes sur la sincérité de votre démarche ! En réalité, ce texte est ce que l’on appelle un cheval de Troie. Non, ce texte n’est pas un cadeau pour les agriculteurs et les agricultrices. D’ailleurs, si vous souhaitez leur faire des cadeaux, il y a quelques urgences à traiter dans le monde agricole.<br/> <br/>Vous auriez pu voter pour garantir aux agriculteurs des prix minimaux rémunérateurs, ce qui leur aurait permis d’établir un vrai rapport de force avec l’agroalimentaire <italique>(Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS)</italique>, mais vous avez voté contre.<br/> <br/>Vous auriez pu vous opposer fermement à tous les traités de libre-échange, mais vous les laissez passer ou alors vous négociez l’introduction, ici ou là, de quelques clauses miroirs inefficaces.<br/> <br/>Vous auriez pu voter un budget ministériel significatif pour favoriser le développement des filières et de notre souveraineté, pour soutenir les agriculteurs face au défi climatique, mais vous avez préféré voter des crédits d’un montant inférieur à 700 millions d’euros. <italique>(Mêmes mouvements.)</italique><br/> <br/>Pourquoi ce texte ? Dans l’agriculture, la technologie est nécessaire <italique>(« Ah ! » sur les bancs du groupe EPR)</italique>, quand il s’agit de soutenir les agriculteurs et agricultrices.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602034" ordre_absolu_seance="113" id_acteur="PA722366" id_mandat="PM843299" id_nomination_oe="-1" id_nomination_op="-3373196" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608008" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Luc Fugit</nom>
+            <id>722366</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>En l’espèce, c’est le cas !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602035" ordre_absolu_seance="114" id_acteur="PA795482" id_mandat="PM843605" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608009" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Manon Meunier</nom>
+            <id>795482</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Le problème, c’est quand il ne reste plus que ça. Vous permettez aux propriétaires de vignobles de remplacer les salariés agricoles par des drones ; dans le projet de loi d’orientation agricole, vous cherchez à permettre aux banques et aux assureurs privés de spéculer sur les terres agricoles <italique>(Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS)</italique> ; vous empilez les lois Egalim – 1, 2, 3, 4, et bientôt 5 –, qui ne feront jamais frémir les acteurs de la grande distribution et leur laissent toujours le dernier mot dans les négociations ; vous signez ou laissez passer de multiples traités de libre-échange qui font de notre agriculture une variable d’ajustement et mettent nos paysans et paysannes en concurrence avec ceux de la Nouvelle-Zélande, du Canada et, bientôt, du Mercosur.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602036" ordre_absolu_seance="115" id_acteur="PA793892" id_mandat="PM842738" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608010" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Stéphanie Galzy</nom>
+            <id>793892</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La faute à qui ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602037" ordre_absolu_seance="116" id_acteur="PA795482" id_mandat="PM843605" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608011" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Manon Meunier</nom>
+            <id>795482</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Ainsi, vous laissez advenir un monde où seule l’agro-industrie sera capable de survivre et de s’installer <italique>(Mêmes mouvements)</italique>, car elle seule pourra acheter toujours plus de drones et toujours plus de terres agricoles, celles-ci devenant inaccessibles aux porteurs de projet ; seule l’agro-industrie, exploitant des fermes toujours plus grandes, pourra rester compétitive. Certainement, le modèle agricole familial ne vous rapporte plus assez de profits pour mériter votre intérêt ! Au lieu de mettre l’accent sur l’installation de paysans nombreux, vous alignez la France sur le moins-disant international environnemental et social.<br/>Les agriculteurs et agricultrices de notre pays méritent mieux que votre libéralisme mondialisateur. Ils et elles méritent mieux que des drones permettant de rivaliser avec les normes sociales moins-disantes de l’international. Ils et elles méritent des emplois rémunérés par des vrais prix. Ils et elles méritent d’être plus nombreux pour un travail moins pénible. Ils et elles méritent du protectionnisme ! <italique>(Applaudissements sur les bancs des groupes LFI-NFP et EcoS.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602038" ordre_absolu_seance="168" id_acteur="PA794008" id_mandat="PM842768" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608075" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Cyrielle Chatelain</nom>
+            <id>794008</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Bravo !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602039" ordre_absolu_seance="169" id_acteur="PA795228" id_mandat="PM840447" id_nomination_oe="0" id_nomination_op="PM846635" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608013" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>795228</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>La parole est à Mme Chantal Jourdan.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602040" ordre_absolu_seance="170" id_acteur="PA643192" id_mandat="PM843152" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="3608014" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Chantal Jourdan (SOC)</nom>
+            <id>643192</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>Nous ne sommes pas opposés par principe aux évolutions technologiques dans l’agriculture, mais elles doivent respecter deux conditions : permettre d’améliorer les conditions de travail des agriculteurs de manière universelle ; accroître l’efficacité des traitements dans le respect de la santé humaine et environnementale. Telle est, depuis le début de l’examen de ce texte, la position du groupe Socialistes et apparentés.<br/>À l’issue de l’expérimentation ouverte en 2018 par la loi Egalim 1, l’Anses a rendu, en 2022, une évaluation complète et très nuancée. Si l’utilisation d’un drone peut se justifier pour le traitement des cultures dans certaines parcelles dès lors qu’elle libère les travailleurs agricoles d’un équipement particulièrement lourd – c’est le cas pour les vignes cultivées sur des terrains accidentés, c’est-à-dire présentant une pente égale ou supérieure à 30 % –, l’Anses ne conclut à aucun moment qu’elle est d’un intérêt généralisé pour tous les types de cultures.<br/> <br/>Il est problématique et inquiétant que certains d’entre nous fassent une autre lecture de l’évaluation de l’Anses. À cet égard, l’alinéa 6 de l’article 1<exposant>er</exposant>, qui prévoit la généralisation des essais sur tous les types de culture en l’absence de condition relative au caractère accidenté des terrains, ouvre la porte au développement massif du drone. Qui plus est, outre les produits phytopharmaceutiques de biocontrôle autorisés en agriculture biologique, des produits à faible risque pourront être pulvérisés. Aussi la droite et l’extrême droite ont-elles pu défendre des amendements visant à permettre l’utilisation de tous types de produits phytopharmaceutiques. Autrement dit, vous avez ouvert la boîte de Pandore et permis le retour des pulvérisations aériennes,…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602043" ordre_absolu_seance="173" id_acteur="PA722366" id_mandat="PM843299" id_nomination_oe="-1" id_nomination_op="-3373196" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608017" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Luc Fugit</nom>
+            <id>722366</id>
+            <qualite>rapporteur</qualite>
+          </orateur>
+        </orateurs>
+        <texte>C’est faux !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="3" id_preparation="2602044" ordre_absolu_seance="174" id_acteur="PA643192" id_mandat="PM843152" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3608018" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Chantal Jourdan</nom>
+            <id>643192</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte>…qui présentent des risques avérés pour la santé des agriculteurs et des riverains.<br/>Enfin, quels types d’exploitations seront en mesure de s’équiper de drones ? Et pour quel type d’agriculture ? Ce texte alimentera l’évolution vers une agriculture à deux vitesses, partagée entre le technosolutionnisme et les solutions fondées sur la nature, donc entre de très grandes exploitations et un modèle familial agroécologique – que nous défendons.<br/> <br/>Pour toutes ces raisons, les députés de mon groupe voteront majoritairement contre ce texte. <italique>(Applaudissements sur plusieurs bancs des groupes SOC et EcoS et sur quelques bancs du groupe LFI-NFP.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="4" ordinal_prise="4" id_preparation="0" ordre_absolu_seance="0" code_grammaire="FUSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="3607731" valeur="">
+        <orateurs/>
+        <texte>------------------Cette partie de la séance est en cours de finalisation---------------------------------------------</texte>
+      </paragraphe>
+    </point>
+  </contenu>
+</compteRendu>
