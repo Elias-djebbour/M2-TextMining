@@ -5,14 +5,24 @@ import xml.etree.ElementTree as ET
 # Dossier contenant les fichiers XML
 dossier_xml = "xml/compteRendu"
 
-# Dictionnaire de classification des thèmes (à enrichir si nécessaire)
+# Dictionnaire de classification élargi des thèmes
 classification_themes = {
-    "santé": ["prévention", "santé publique", "maladies", "hôpital", "sport"],
-    "économie": ["finance", "budget", "économie", "chômage", "entreprises"],
-    "éducation": ["éducation", "école", "université", "formation"],
-    "immigration": ["migrants", "asile", "réfugiés", "immigration", "frontières"],
-    "environnement": ["écologie", "environnement", "climat", "pollution", "énergie"],
-    "droit": ["justice", "lois", "code", "constitution", "droit"],
+    "santé": ["prévention", "santé publique", "maladies", "hôpital", "sport", "soins", "médical", "vaccin"],
+    "économie": ["finance", "budget", "économie", "chômage", "entreprises", "impôts", "fiscalité", "commerce"],
+    "éducation": ["éducation", "école", "université", "formation", "enseignants", "étudiants", "enseignement"],
+    "immigration": ["migrants", "asile", "réfugiés", "immigration", "frontières", "intégration"],
+    "environnement": ["écologie", "environnement", "climat", "pollution", "énergie", "biodiversité", "développement durable"],
+    "droit": ["justice", "lois", "code", "constitution", "droit", "tribunal", "juridique", "législation"],
+    "sécurité": ["sécurité", "police", "gendarmerie", "armée", "terrorisme", "criminalité", "cybersécurité"],
+    "culture": ["culture", "patrimoine", "arts", "cinéma", "musique", "livres", "langue", "tourisme"],
+    "technologie": ["technologie", "numérique", "internet", "innovation", "recherche", "cybersécurité", "intelligence artificielle"],
+    "agriculture": ["agriculture", "pêche", "ruralité", "élevage", "fermes", "paysan", "produits agricoles"],
+    "social": ["social", "famille", "inégalités", "pauvreté", "solidarité", "logement", "exclusion", "handicap"],
+    "travail": ["travail", "emploi", "salaires", "syndicats", "conditions de travail", "licenciements", "grèves"],
+    "transport": ["transport", "mobilité", "infrastructure", "routes", "trains", "aviation", "logistique"],
+    "défense": ["défense", "armée", "militaire", "guerre", "conflits", "stratégie"],
+    "politique": ["politique", "gouvernement", "élections", "partis", "assemblée", "président", "députés", "réformes"],
+    "autre": []  # Tous les thèmes non classés
 }
 
 # Fonction pour classifier un thème
