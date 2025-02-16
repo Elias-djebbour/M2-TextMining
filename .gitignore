@@ -1,5 +1,6 @@
 archive/medium_articles.csv
 archive/lemmetised_clean_data.csv
 archive/stemmed_cleaned_data.csv
+archive/stemmed_lda_data.csv
 Mining_Env
 archive/pca_data.csv
